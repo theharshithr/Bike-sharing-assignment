@@ -18,6 +18,8 @@ A bike-sharing system is a service in which bikes are made available for shared 
 - sklearn - version 0.24.2
 - scipy - version 1.7.1   
 
+# Hi Harshith , HP here , I would like to contribute!
+
 ## Conclusion
 Significant variables to predict the demand for shared bikes
 
